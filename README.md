@@ -5,7 +5,6 @@ YouTube link:
 
 https://www.youtube.com/watch?v=adaRRTIiwWk&ab_channel=LEARNINGPARTNER
 
-
 GitHub:
 
 https://github.com/voidChetan/eCommerce/tree/main
