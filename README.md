@@ -12,4 +12,8 @@ https://github.com/voidChetan/eCommerce/tree/main
 BackEnd Service:
 
 http://onlinetestapi.gerasim.in/api/Ecomm
+
+Swagger:
+
+https://onlinetestapi.gerasim.in/index.html
  
