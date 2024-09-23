@@ -43,7 +43,6 @@ export class NewArrivalComponent implements OnInit{
     this.carObj.ProductId = productId;
     this.productService.addToCart(this.carObj).subscribe((result:any) =>{
       if(result.result){
-        // alert("Product added to the cart");
         this.productService.cartAddedSubject.next(true);
       }
     });
