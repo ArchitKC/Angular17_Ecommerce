@@ -1,4 +1,6 @@
-import { Component } from '@angular/core';
+import { ProductService } from './../../services/product.service';
+import { ConsoleAppender } from './../../../../node_modules/log4js/types/log4js.d';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-cart',
@@ -7,4 +9,5 @@ import { Component } from '@angular/core';
 })
 export class CartComponent {
 
+  
 }
